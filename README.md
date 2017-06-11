@@ -28,7 +28,7 @@ Download or clone this repo  to the specific folder.
 
 Now we will have to download the require node package as per package.json. 
 
-    $ npm update 
+    $ npm install 
 
 After all successfully updated we will have to run **webpack-dev-server** to build and run the application.
 
